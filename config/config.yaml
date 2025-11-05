@@ -1,0 +1,50 @@
+# 应用配置
+app:
+  name: "Graham Value Investment Analyzer"
+  version: "2.0.0"
+  debug: true
+  host: "0.0.0.0"
+  port: 5000
+
+# Tushare数据源配置
+tushare:
+  token: "58ed199914f035540b89da2694939ac4fc2305b297792b0759703bef"
+  timeout: 30
+  retry_count: 3
+  retry_delay: 1
+  # 接口调用频率限制(次/分钟)
+  rate_limit: 200  # 普通用户200次/分钟
+
+# 格雷厄姆算法配置
+graham:
+  # 筛选标准
+  filter:
+    min_market_cap: 500000000  # 最小市值5亿
+    max_pe_ratio: 25
+    max_pb_ratio: 3
+    min_roe: 0.1  # 10%
+    max_debt_ratio: 0.6  # 60%
+    min_profit_years: 3
+
+  # 安全边际阈值
+  safety_margin:
+    excellent: 0.5  # 50%
+    good: 0.3      # 30%
+    acceptable: 0.2 # 20%
+
+  # AAA公司债收益率（用于内在价值计算）
+  aaa_bond_yield: 0.044
+
+# 日志配置
+logging:
+  level: "INFO"
+  format: "<green>{time:YYYY-MM-DD HH:mm:ss}</green> | <level>{level: <8}</level> | <cyan>{name}</cyan>:<cyan>{function}</cyan>:<cyan>{line}</cyan> - <level>{message}</level>"
+  rotation: "500 MB"
+  retention: "30 days"
+  compression: "zip"
+
+# API配置
+api:
+  prefix: "/api/v1"
+  cors_origins: ["http://localhost:3000", "http://localhost:5173"]
+  rate_limit: 100  # 每分钟请求数

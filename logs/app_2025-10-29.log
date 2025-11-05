@@ -1,0 +1,76 @@
+2025-10-29 06:33:31 | INFO     | src.utils.logger:info:68 - ============================================================
+2025-10-29 06:33:31 | INFO     | src.utils.logger:info:68 - 简单连接测试（不使用Selenium）
+2025-10-29 06:33:31 | INFO     | src.utils.logger:info:68 - ============================================================
+2025-10-29 06:33:31 | INFO     | src.utils.logger:info:68 - 
+测试百度
+2025-10-29 06:33:31 | INFO     | src.utils.logger:info:68 - URL: https://www.baidu.com
+2025-10-29 06:33:32 | INFO     | src.utils.logger:info:68 - 状态码: 200
+2025-10-29 06:33:32 | INFO     | src.utils.logger:info:68 - 响应大小: 625885 bytes
+2025-10-29 06:33:32 | INFO     | src.utils.logger:info:68 - 响应时间: 0.62秒
+2025-10-29 06:33:32 | INFO     | src.utils.logger:info:68 - ✅ 测试通过
+2025-10-29 06:33:32 | INFO     | src.utils.logger:info:68 - 
+测试东方财富首页
+2025-10-29 06:33:32 | INFO     | src.utils.logger:info:68 - URL: https://www.eastmoney.com
+2025-10-29 06:33:33 | INFO     | src.utils.logger:info:68 - 状态码: 200
+2025-10-29 06:33:33 | INFO     | src.utils.logger:info:68 - 响应大小: 349859 bytes
+2025-10-29 06:33:33 | INFO     | src.utils.logger:info:68 - 响应时间: 1.00秒
+2025-10-29 06:33:33 | INFO     | src.utils.logger:info:68 - ✅ 测试通过
+2025-10-29 06:33:33 | INFO     | src.utils.logger:info:68 - 
+测试东方财富行情中心
+2025-10-29 06:33:33 | INFO     | src.utils.logger:info:68 - URL: https://quote.eastmoney.com
+2025-10-29 06:33:35 | INFO     | src.utils.logger:info:68 - 状态码: 200
+2025-10-29 06:33:35 | INFO     | src.utils.logger:info:68 - 响应大小: 58690 bytes
+2025-10-29 06:33:35 | INFO     | src.utils.logger:info:68 - 响应时间: 1.46秒
+2025-10-29 06:33:35 | INFO     | src.utils.logger:info:68 - ✅ 测试通过
+2025-10-29 06:33:35 | INFO     | src.utils.logger:info:68 - 
+============================================================
+2025-10-29 06:33:35 | INFO     | src.utils.logger:info:68 - 测试总结: 3/3 通过
+2025-10-29 06:33:35 | INFO     | src.utils.logger:info:68 - ✅ 所有测试通过，网络访问正常
+2025-10-29 06:33:35 | INFO     | src.utils.logger:info:68 - ============================================================
+2025-10-29 14:50:59 | INFO     | src.utils.logger:info:68 - 数据库初始化成功
+2025-10-29 14:51:49 | INFO     | src.utils.logger:info:68 - ============================================================
+2025-10-29 14:51:49 | INFO     | src.utils.logger:info:68 - 简单连接测试（不使用Selenium）
+2025-10-29 14:51:49 | INFO     | src.utils.logger:info:68 - ============================================================
+2025-10-29 14:51:49 | INFO     | src.utils.logger:info:68 - 
+测试百度
+2025-10-29 14:51:49 | INFO     | src.utils.logger:info:68 - URL: https://www.baidu.com
+2025-10-29 14:51:51 | INFO     | src.utils.logger:info:68 - 状态码: 200
+2025-10-29 14:51:51 | INFO     | src.utils.logger:info:68 - 响应大小: 625851 bytes
+2025-10-29 14:51:51 | INFO     | src.utils.logger:info:68 - 响应时间: 1.39秒
+2025-10-29 14:51:51 | INFO     | src.utils.logger:info:68 - ✅ 测试通过
+2025-10-29 14:51:51 | INFO     | src.utils.logger:info:68 - 
+测试东方财富首页
+2025-10-29 14:51:51 | INFO     | src.utils.logger:info:68 - URL: https://www.eastmoney.com
+2025-10-29 14:51:52 | INFO     | src.utils.logger:info:68 - 状态码: 200
+2025-10-29 14:51:52 | INFO     | src.utils.logger:info:68 - 响应大小: 350039 bytes
+2025-10-29 14:51:52 | INFO     | src.utils.logger:info:68 - 响应时间: 0.74秒
+2025-10-29 14:51:52 | INFO     | src.utils.logger:info:68 - ✅ 测试通过
+2025-10-29 14:51:52 | INFO     | src.utils.logger:info:68 - 
+测试东方财富行情中心
+2025-10-29 14:51:52 | INFO     | src.utils.logger:info:68 - URL: https://quote.eastmoney.com
+2025-10-29 14:51:53 | INFO     | src.utils.logger:info:68 - 状态码: 200
+2025-10-29 14:51:53 | INFO     | src.utils.logger:info:68 - 响应大小: 58690 bytes
+2025-10-29 14:51:53 | INFO     | src.utils.logger:info:68 - 响应时间: 1.08秒
+2025-10-29 14:51:53 | INFO     | src.utils.logger:info:68 - ✅ 测试通过
+2025-10-29 14:51:53 | INFO     | src.utils.logger:info:68 - 
+============================================================
+2025-10-29 14:51:53 | INFO     | src.utils.logger:info:68 - 测试总结: 3/3 通过
+2025-10-29 14:51:53 | INFO     | src.utils.logger:info:68 - ✅ 所有测试通过，网络访问正常
+2025-10-29 14:51:53 | INFO     | src.utils.logger:info:68 - ============================================================
+2025-10-29 15:01:49 | INFO     | src.utils.logger:info:68 - ============================================================
+2025-10-29 15:01:49 | INFO     | src.utils.logger:info:68 - Graham Value Investment Analyzer 启动中...
+2025-10-29 15:01:49 | INFO     | src.utils.logger:info:68 - ============================================================
+2025-10-29 15:01:49 | INFO     | src.utils.logger:info:68 - 启动任务调度器...
+2025-10-29 15:01:49 | INFO     | src.utils.logger:info:68 - 所有定时任务已注册
+2025-10-29 15:01:49 | INFO     | src.utils.logger:info:68 - 任务调度器已启动
+2025-10-29 15:01:49 | INFO     | src.utils.logger:info:68 - 创建Flask应用...
+2025-10-29 15:01:49 | INFO     | src.utils.logger:info:68 - 数据库初始化成功
+2025-10-29 15:01:49 | INFO     | src.utils.logger:info:68 - Flask应用创建成功
+2025-10-29 15:01:49 | INFO     | src.utils.logger:info:68 - Flask服务配置: 0.0.0.0:5000
+2025-10-29 15:01:49 | INFO     | src.utils.logger:info:68 - ============================================================
+2025-10-29 15:01:49 | INFO     | src.utils.logger:info:68 - 应用启动成功！
+2025-10-29 15:01:49 | INFO     | src.utils.logger:info:68 - API地址: http://0.0.0.0:5000
+2025-10-29 15:01:49 | INFO     | src.utils.logger:info:68 - API文档: http://0.0.0.0:5000/
+2025-10-29 15:01:49 | INFO     | src.utils.logger:info:68 - ============================================================
+2025-10-29 15:06:39 | ERROR    | src.utils.logger:error:76 - WebDriver初始化失败: Could not reach host. Are you offline?
+2025-10-29 15:06:39 | ERROR    | src.utils.logger:error:76 - 爬虫运行失败: Could not reach host. Are you offline?

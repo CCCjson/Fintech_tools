@@ -1,0 +1,24 @@
+[32m2025-11-05 09:52:43[0m | [1mINFO    [0m | [36msrc.utils.logger[0m:[36minfo[0m:[36m68[0m - [1mTushare客户端初始化成功[0m
+[32m2025-11-05 09:52:43[0m | [1mINFO    [0m | [36msrc.utils.logger[0m:[36minfo[0m:[36m68[0m - [1mDataFetcher初始化成功[0m
+[32m2025-11-05 09:52:43[0m | [1mINFO    [0m | [36msrc.utils.logger[0m:[36minfo[0m:[36m68[0m - [1mTushare客户端初始化成功[0m
+[32m2025-11-05 09:52:43[0m | [1mINFO    [0m | [36msrc.utils.logger[0m:[36minfo[0m:[36m68[0m - [1mDataFetcher初始化成功[0m
+[32m2025-11-05 09:52:43[0m | [1mINFO    [0m | [36msrc.utils.logger[0m:[36minfo[0m:[36m68[0m - [1mTushare客户端初始化成功[0m
+[32m2025-11-05 09:52:43[0m | [1mINFO    [0m | [36msrc.utils.logger[0m:[36minfo[0m:[36m68[0m - [1mDataFetcher初始化成功[0m
+[32m2025-11-05 09:52:43[0m | [1mINFO    [0m | [36msrc.utils.logger[0m:[36minfo[0m:[36m68[0m - [1m============================================================[0m
+[32m2025-11-05 09:52:43[0m | [1mINFO    [0m | [36msrc.utils.logger[0m:[36minfo[0m:[36m68[0m - [1mGraham Value Investment Analyzer 启动中...[0m
+[32m2025-11-05 09:52:43[0m | [1mINFO    [0m | [36msrc.utils.logger[0m:[36minfo[0m:[36m68[0m - [1m============================================================[0m
+[32m2025-11-05 09:52:43[0m | [1mINFO    [0m | [36msrc.utils.logger[0m:[36minfo[0m:[36m68[0m - [1m创建Flask应用...[0m
+[32m2025-11-05 09:52:43[0m | [1mINFO    [0m | [36msrc.utils.logger[0m:[36minfo[0m:[36m68[0m - [1mFlask应用创建成功[0m
+[32m2025-11-05 09:52:43[0m | [1mINFO    [0m | [36msrc.utils.logger[0m:[36minfo[0m:[36m68[0m - [1mFlask服务配置: 0.0.0.0:5000[0m
+[32m2025-11-05 09:52:43[0m | [1mINFO    [0m | [36msrc.utils.logger[0m:[36minfo[0m:[36m68[0m - [1m============================================================[0m
+[32m2025-11-05 09:52:43[0m | [1mINFO    [0m | [36msrc.utils.logger[0m:[36minfo[0m:[36m68[0m - [1m应用启动成功！[0m
+[32m2025-11-05 09:52:43[0m | [1mINFO    [0m | [36msrc.utils.logger[0m:[36minfo[0m:[36m68[0m - [1mAPI地址: http://0.0.0.0:5000[0m
+[32m2025-11-05 09:52:43[0m | [1mINFO    [0m | [36msrc.utils.logger[0m:[36minfo[0m:[36m68[0m - [1mAPI文档: http://0.0.0.0:5000/[0m
+[32m2025-11-05 09:52:43[0m | [1mINFO    [0m | [36msrc.utils.logger[0m:[36minfo[0m:[36m68[0m - [1m============================================================[0m
+[32m2025-11-05 09:52:43[0m | [1mINFO    [0m | [36msrc.utils.logger[0m:[36minfo[0m:[36m68[0m - [1m说明: 系统已改为实时调用Tushare API获取数据[0m
+[32m2025-11-05 09:52:43[0m | [1mINFO    [0m | [36msrc.utils.logger[0m:[36minfo[0m:[36m68[0m - [1m============================================================[0m
+ * Serving Flask app 'src.api.app'
+ * Debug mode: on
+Address already in use
+Port 5000 is in use by another program. Either identify and stop that program, or start the server with a different port.
+On macOS, try disabling the 'AirPlay Receiver' service from System Preferences -> General -> AirDrop & Handoff.

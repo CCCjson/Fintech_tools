@@ -1,0 +1,316 @@
+2025-11-04 05:55:12 | INFO     | src.utils.logger:info:68 - Tushare客户端初始化成功
+2025-11-04 05:55:18 | INFO     | src.utils.logger:info:68 - 获取股票列表成功，共5445条
+2025-11-04 05:55:22 | INFO     | src.utils.logger:info:68 - 获取日线行情成功，共6000条
+2025-11-04 05:55:26 | INFO     | src.utils.logger:info:68 - 获取财务指标数据成功: 000001.SZ，共100条
+2025-11-04 05:55:29 | INFO     | src.utils.logger:info:68 - 获取行业指数列表成功，共31条
+2025-11-04 05:55:29 | INFO     | src.utils.logger:info:68 - Tushare客户端初始化成功
+2025-11-04 05:55:29 | INFO     | src.utils.logger:info:68 - DataFetcher初始化成功
+2025-11-04 05:55:29 | INFO     | src.utils.logger:info:68 - 开始获取股票列表，市场: SZ
+2025-11-04 05:55:33 | INFO     | src.utils.logger:info:68 - 获取股票列表成功，共2875条
+2025-11-04 05:55:33 | INFO     | src.utils.logger:info:68 - 获取股票列表成功，共2875条
+2025-11-04 06:29:30 | INFO     | src.utils.logger:info:68 - ============================================================
+2025-11-04 06:29:30 | INFO     | src.utils.logger:info:68 - Graham Value Investment Analyzer 启动中...
+2025-11-04 06:29:30 | INFO     | src.utils.logger:info:68 - ============================================================
+2025-11-04 06:29:30 | INFO     | src.utils.logger:info:68 - 启动任务调度器...
+2025-11-04 06:29:30 | INFO     | src.utils.logger:info:68 - 所有定时任务已注册
+2025-11-04 06:29:30 | INFO     | src.utils.logger:info:68 - 任务调度器已启动
+2025-11-04 06:29:30 | INFO     | src.utils.logger:info:68 - 创建Flask应用...
+2025-11-04 06:29:30 | INFO     | src.utils.logger:info:68 - 数据库初始化成功
+2025-11-04 06:29:30 | INFO     | src.utils.logger:info:68 - Flask应用创建成功
+2025-11-04 06:29:30 | INFO     | src.utils.logger:info:68 - Flask服务配置: 0.0.0.0:5000
+2025-11-04 06:29:30 | INFO     | src.utils.logger:info:68 - ============================================================
+2025-11-04 06:29:30 | INFO     | src.utils.logger:info:68 - 应用启动成功！
+2025-11-04 06:29:30 | INFO     | src.utils.logger:info:68 - API地址: http://0.0.0.0:5000
+2025-11-04 06:29:30 | INFO     | src.utils.logger:info:68 - API文档: http://0.0.0.0:5000/
+2025-11-04 06:29:30 | INFO     | src.utils.logger:info:68 - ============================================================
+2025-11-04 06:29:30 | INFO     | src.utils.logger:info:68 - ============================================================
+2025-11-04 06:29:30 | INFO     | src.utils.logger:info:68 - Graham Value Investment Analyzer 启动中...
+2025-11-04 06:29:30 | INFO     | src.utils.logger:info:68 - ============================================================
+2025-11-04 06:29:30 | INFO     | src.utils.logger:info:68 - 启动任务调度器...
+2025-11-04 06:29:30 | INFO     | src.utils.logger:info:68 - 所有定时任务已注册
+2025-11-04 06:29:30 | INFO     | src.utils.logger:info:68 - 任务调度器已启动
+2025-11-04 06:29:30 | INFO     | src.utils.logger:info:68 - 创建Flask应用...
+2025-11-04 06:29:30 | INFO     | src.utils.logger:info:68 - 数据库初始化成功
+2025-11-04 06:29:30 | INFO     | src.utils.logger:info:68 - Flask应用创建成功
+2025-11-04 06:29:30 | INFO     | src.utils.logger:info:68 - Flask服务配置: 0.0.0.0:5000
+2025-11-04 06:29:30 | INFO     | src.utils.logger:info:68 - ============================================================
+2025-11-04 06:29:30 | INFO     | src.utils.logger:info:68 - 应用启动成功！
+2025-11-04 06:29:30 | INFO     | src.utils.logger:info:68 - API地址: http://0.0.0.0:5000
+2025-11-04 06:29:30 | INFO     | src.utils.logger:info:68 - API文档: http://0.0.0.0:5000/
+2025-11-04 06:29:30 | INFO     | src.utils.logger:info:68 - ============================================================
+2025-11-04 06:30:30 | INFO     | src.utils.logger:info:68 - 更新实时行情
+2025-11-04 06:30:30 | INFO     | src.utils.logger:info:68 - 更新实时行情
+2025-11-04 06:31:30 | INFO     | src.utils.logger:info:68 - 更新实时行情
+2025-11-04 06:31:30 | INFO     | src.utils.logger:info:68 - 更新实时行情
+2025-11-04 06:32:30 | INFO     | src.utils.logger:info:68 - 更新实时行情
+2025-11-04 06:32:30 | INFO     | src.utils.logger:info:68 - 更新实时行情
+2025-11-04 06:33:30 | INFO     | src.utils.logger:info:68 - 更新实时行情
+2025-11-04 06:33:30 | INFO     | src.utils.logger:info:68 - 更新实时行情
+2025-11-04 06:34:30 | INFO     | src.utils.logger:info:68 - 更新实时行情
+2025-11-04 06:34:30 | INFO     | src.utils.logger:info:68 - 更新实时行情
+2025-11-04 06:35:30 | INFO     | src.utils.logger:info:68 - 更新实时行情
+2025-11-04 06:35:30 | INFO     | src.utils.logger:info:68 - 更新实时行情
+2025-11-04 06:36:30 | INFO     | src.utils.logger:info:68 - 更新实时行情
+2025-11-04 06:36:30 | INFO     | src.utils.logger:info:68 - 更新实时行情
+2025-11-04 06:37:30 | INFO     | src.utils.logger:info:68 - 更新实时行情
+2025-11-04 06:37:30 | INFO     | src.utils.logger:info:68 - 更新实时行情
+2025-11-04 06:38:30 | INFO     | src.utils.logger:info:68 - 更新实时行情
+2025-11-04 06:38:30 | INFO     | src.utils.logger:info:68 - 更新实时行情
+2025-11-04 06:39:30 | INFO     | src.utils.logger:info:68 - 更新实时行情
+2025-11-04 06:39:30 | INFO     | src.utils.logger:info:68 - 更新实时行情
+2025-11-04 06:40:30 | INFO     | src.utils.logger:info:68 - 更新实时行情
+2025-11-04 06:40:30 | INFO     | src.utils.logger:info:68 - 更新实时行情
+2025-11-04 06:41:30 | INFO     | src.utils.logger:info:68 - 更新实时行情
+2025-11-04 06:41:30 | INFO     | src.utils.logger:info:68 - 更新实时行情
+2025-11-04 06:42:30 | INFO     | src.utils.logger:info:68 - 更新实时行情
+2025-11-04 06:42:30 | INFO     | src.utils.logger:info:68 - 更新实时行情
+2025-11-04 06:43:30 | INFO     | src.utils.logger:info:68 - 更新实时行情
+2025-11-04 06:43:30 | INFO     | src.utils.logger:info:68 - 更新实时行情
+2025-11-04 06:44:30 | INFO     | src.utils.logger:info:68 - 更新实时行情
+2025-11-04 06:44:30 | INFO     | src.utils.logger:info:68 - 更新实时行情
+2025-11-04 06:45:30 | INFO     | src.utils.logger:info:68 - 更新实时行情
+2025-11-04 06:45:30 | INFO     | src.utils.logger:info:68 - 更新实时行情
+2025-11-04 06:46:30 | INFO     | src.utils.logger:info:68 - 更新实时行情
+2025-11-04 06:46:30 | INFO     | src.utils.logger:info:68 - 更新实时行情
+2025-11-04 06:47:30 | INFO     | src.utils.logger:info:68 - 更新实时行情
+2025-11-04 06:47:30 | INFO     | src.utils.logger:info:68 - 更新实时行情
+2025-11-04 06:48:30 | INFO     | src.utils.logger:info:68 - 更新实时行情
+2025-11-04 06:48:30 | INFO     | src.utils.logger:info:68 - 更新实时行情
+2025-11-04 06:49:30 | INFO     | src.utils.logger:info:68 - 更新实时行情
+2025-11-04 06:49:30 | INFO     | src.utils.logger:info:68 - 更新实时行情
+2025-11-04 06:50:30 | INFO     | src.utils.logger:info:68 - 更新实时行情
+2025-11-04 06:50:30 | INFO     | src.utils.logger:info:68 - 更新实时行情
+2025-11-04 06:51:30 | INFO     | src.utils.logger:info:68 - 更新实时行情
+2025-11-04 06:51:30 | INFO     | src.utils.logger:info:68 - 更新实时行情
+2025-11-04 06:52:30 | INFO     | src.utils.logger:info:68 - 更新实时行情
+2025-11-04 06:52:30 | INFO     | src.utils.logger:info:68 - 更新实时行情
+2025-11-04 06:53:30 | INFO     | src.utils.logger:info:68 - 更新实时行情
+2025-11-04 06:53:30 | INFO     | src.utils.logger:info:68 - 更新实时行情
+2025-11-04 06:54:30 | INFO     | src.utils.logger:info:68 - 更新实时行情
+2025-11-04 06:54:30 | INFO     | src.utils.logger:info:68 - 更新实时行情
+2025-11-04 06:55:30 | INFO     | src.utils.logger:info:68 - 更新实时行情
+2025-11-04 06:55:30 | INFO     | src.utils.logger:info:68 - 更新实时行情
+2025-11-04 06:56:30 | INFO     | src.utils.logger:info:68 - 更新实时行情
+2025-11-04 06:56:30 | INFO     | src.utils.logger:info:68 - 更新实时行情
+2025-11-04 06:57:30 | INFO     | src.utils.logger:info:68 - 更新实时行情
+2025-11-04 06:57:30 | INFO     | src.utils.logger:info:68 - 更新实时行情
+2025-11-04 06:58:30 | INFO     | src.utils.logger:info:68 - 更新实时行情
+2025-11-04 06:58:30 | INFO     | src.utils.logger:info:68 - 更新实时行情
+2025-11-04 06:59:30 | INFO     | src.utils.logger:info:68 - 更新实时行情
+2025-11-04 06:59:30 | INFO     | src.utils.logger:info:68 - 更新实时行情
+2025-11-04 07:05:47 | INFO     | src.utils.logger:info:68 - ============================================================
+2025-11-04 07:05:47 | INFO     | src.utils.logger:info:68 - Graham Value Investment Analyzer 启动中...
+2025-11-04 07:05:47 | INFO     | src.utils.logger:info:68 - ============================================================
+2025-11-04 07:05:47 | INFO     | src.utils.logger:info:68 - 启动任务调度器...
+2025-11-04 07:05:47 | INFO     | src.utils.logger:info:68 - 所有定时任务已注册
+2025-11-04 07:05:47 | INFO     | src.utils.logger:info:68 - 任务调度器已启动
+2025-11-04 07:05:47 | INFO     | src.utils.logger:info:68 - 创建Flask应用...
+2025-11-04 07:05:47 | INFO     | src.utils.logger:info:68 - 数据库初始化成功
+2025-11-04 07:05:47 | INFO     | src.utils.logger:info:68 - Flask应用创建成功
+2025-11-04 07:05:47 | INFO     | src.utils.logger:info:68 - 检查数据健康状态...
+2025-11-04 07:05:47 | WARNING  | src.utils.logger:warning:72 - ============================================================
+2025-11-04 07:05:47 | WARNING  | src.utils.logger:warning:72 - ⚠️  数据库为空，系统无数据可显示
+2025-11-04 07:05:47 | WARNING  | src.utils.logger:warning:72 - ============================================================
+2025-11-04 07:05:47 | WARNING  | src.utils.logger:warning:72 - 请运行以下命令初始化数据:
+2025-11-04 07:05:47 | WARNING  | src.utils.logger:warning:72 -   python init_data.py
+2025-11-04 07:05:47 | WARNING  | src.utils.logger:warning:72 - 
+2025-11-04 07:05:47 | WARNING  | src.utils.logger:warning:72 - 或者等待定时任务自动更新（需要等到交易时间）
+2025-11-04 07:05:47 | WARNING  | src.utils.logger:warning:72 - ============================================================
+2025-11-04 07:05:47 | INFO     | src.utils.logger:info:68 - Flask服务配置: 0.0.0.0:5000
+2025-11-04 07:05:47 | INFO     | src.utils.logger:info:68 - ============================================================
+2025-11-04 07:05:47 | INFO     | src.utils.logger:info:68 - 应用启动成功！
+2025-11-04 07:05:47 | INFO     | src.utils.logger:info:68 - API地址: http://0.0.0.0:5000
+2025-11-04 07:05:47 | INFO     | src.utils.logger:info:68 - API文档: http://0.0.0.0:5000/
+2025-11-04 07:05:47 | INFO     | src.utils.logger:info:68 - ============================================================
+2025-11-04 07:06:18 | INFO     | src.utils.logger:info:68 - ============================================================
+2025-11-04 07:06:18 | INFO     | src.utils.logger:info:68 - 数据初始化程序
+2025-11-04 07:06:18 | INFO     | src.utils.logger:info:68 - ============================================================
+2025-11-04 07:06:18 | INFO     | src.utils.logger:info:68 - 
+2025-11-04 07:06:18 | INFO     | src.utils.logger:info:68 - 步骤 1/2: 更新股票列表和日线数据
+2025-11-04 07:06:18 | INFO     | src.utils.logger:info:68 - ------------------------------------------------------------
+2025-11-04 07:06:18 | INFO     | src.utils.logger:info:68 - 更新股票列表和日行情数据
+2025-11-04 07:06:18 | INFO     | src.utils.logger:info:68 - Tushare客户端初始化成功
+2025-11-04 07:06:18 | INFO     | src.utils.logger:info:68 - DataFetcher初始化成功
+2025-11-04 07:06:18 | INFO     | src.utils.logger:info:68 - 开始获取股票列表，市场: 全部
+2025-11-04 07:06:22 | INFO     | src.utils.logger:info:68 - 获取股票列表成功，共5445条
+2025-11-04 07:06:22 | INFO     | src.utils.logger:info:68 - 获取股票列表成功，共5445条
+2025-11-04 07:06:22 | INFO     | src.utils.logger:info:68 - 开始获取日线行情数据，日期: 20251104
+2025-11-04 07:06:26 | WARNING  | src.utils.logger:warning:72 - 未获取到日线行情数据
+2025-11-04 07:06:27 | INFO     | src.utils.logger:info:68 - 成功更新 5445 条股票基本信息
+2025-11-04 07:06:27 | WARNING  | src.utils.logger:warning:72 - 未获取到日行情数据，可能非交易日
+2025-11-04 07:06:27 | INFO     | src.utils.logger:info:68 - 
+2025-11-04 07:06:27 | INFO     | src.utils.logger:info:68 - 步骤 2/2: 更新行业数据
+2025-11-04 07:06:27 | INFO     | src.utils.logger:info:68 - ------------------------------------------------------------
+2025-11-04 07:06:27 | INFO     | src.utils.logger:info:68 - 更新行业数据
+2025-11-04 07:06:27 | INFO     | src.utils.logger:info:68 - Tushare客户端初始化成功
+2025-11-04 07:06:27 | INFO     | src.utils.logger:info:68 - DataFetcher初始化成功
+2025-11-04 07:06:27 | INFO     | src.utils.logger:info:68 - 开始获取行业数据，日期: 2025-11-04
+2025-11-04 07:06:29 | INFO     | src.utils.logger:info:68 - 获取行业指数列表成功，共31条
+2025-11-04 07:07:39 | INFO     | src.utils.logger:info:68 - 获取行业数据成功，共0条
+2025-11-04 07:07:39 | WARNING  | src.utils.logger:warning:72 - 未获取到行业数据
+2025-11-04 07:07:39 | INFO     | src.utils.logger:info:68 - 
+2025-11-04 07:07:39 | INFO     | src.utils.logger:info:68 - ============================================================
+2025-11-04 07:07:39 | INFO     | src.utils.logger:info:68 - 数据初始化完成！正在验证...
+2025-11-04 07:07:39 | INFO     | src.utils.logger:info:68 - ============================================================
+2025-11-04 07:07:39 | INFO     | src.utils.logger:info:68 - ✓ 股票数据: 5445 条
+2025-11-04 07:07:39 | INFO     | src.utils.logger:info:68 - ✓ 行业数据: 0 条
+2025-11-04 07:07:39 | ERROR    | src.utils.logger:error:76 - ✗ 行业数据为空，初始化可能失败
+2025-11-04 07:07:39 | INFO     | src.utils.logger:info:68 - ============================================================
+2025-11-04 07:07:39 | INFO     | src.utils.logger:info:68 - 初始化成功！现在可以访问前端页面查看数据
+2025-11-04 07:07:39 | INFO     | src.utils.logger:info:68 - 前端地址: http://localhost:3000
+2025-11-04 07:07:39 | INFO     | src.utils.logger:info:68 - ============================================================
+2025-11-04 07:26:11 | INFO     | src.utils.logger:info:68 - Tushare客户端初始化成功
+2025-11-04 07:26:11 | INFO     | src.utils.logger:info:68 - DataFetcher初始化成功
+2025-11-04 07:26:11 | INFO     | src.utils.logger:info:68 - Tushare客户端初始化成功
+2025-11-04 07:26:11 | INFO     | src.utils.logger:info:68 - DataFetcher初始化成功
+2025-11-04 07:26:11 | INFO     | src.utils.logger:info:68 - Tushare客户端初始化成功
+2025-11-04 07:26:11 | INFO     | src.utils.logger:info:68 - DataFetcher初始化成功
+2025-11-04 07:26:11 | INFO     | src.utils.logger:info:68 - ============================================================
+2025-11-04 07:26:11 | INFO     | src.utils.logger:info:68 - Graham Value Investment Analyzer 启动中...
+2025-11-04 07:26:11 | INFO     | src.utils.logger:info:68 - ============================================================
+2025-11-04 07:26:11 | INFO     | src.utils.logger:info:68 - 创建Flask应用...
+2025-11-04 07:26:11 | INFO     | src.utils.logger:info:68 - Flask应用创建成功
+2025-11-04 07:26:11 | INFO     | src.utils.logger:info:68 - Flask服务配置: 0.0.0.0:5000
+2025-11-04 07:26:11 | INFO     | src.utils.logger:info:68 - ============================================================
+2025-11-04 07:26:11 | INFO     | src.utils.logger:info:68 - 应用启动成功！
+2025-11-04 07:26:11 | INFO     | src.utils.logger:info:68 - API地址: http://0.0.0.0:5000
+2025-11-04 07:26:11 | INFO     | src.utils.logger:info:68 - API文档: http://0.0.0.0:5000/
+2025-11-04 07:26:11 | INFO     | src.utils.logger:info:68 - ============================================================
+2025-11-04 07:26:11 | INFO     | src.utils.logger:info:68 - 说明: 系统已改为实时调用Tushare API获取数据
+2025-11-04 07:26:11 | INFO     | src.utils.logger:info:68 - ============================================================
+2025-11-04 07:26:11 | INFO     | src.utils.logger:info:68 - Tushare客户端初始化成功
+2025-11-04 07:26:11 | INFO     | src.utils.logger:info:68 - DataFetcher初始化成功
+2025-11-04 07:26:11 | INFO     | src.utils.logger:info:68 - Tushare客户端初始化成功
+2025-11-04 07:26:11 | INFO     | src.utils.logger:info:68 - DataFetcher初始化成功
+2025-11-04 07:26:11 | INFO     | src.utils.logger:info:68 - Tushare客户端初始化成功
+2025-11-04 07:26:11 | INFO     | src.utils.logger:info:68 - DataFetcher初始化成功
+2025-11-04 07:26:11 | INFO     | src.utils.logger:info:68 - ============================================================
+2025-11-04 07:26:11 | INFO     | src.utils.logger:info:68 - Graham Value Investment Analyzer 启动中...
+2025-11-04 07:26:11 | INFO     | src.utils.logger:info:68 - ============================================================
+2025-11-04 07:26:11 | INFO     | src.utils.logger:info:68 - 创建Flask应用...
+2025-11-04 07:26:11 | INFO     | src.utils.logger:info:68 - Flask应用创建成功
+2025-11-04 07:26:11 | INFO     | src.utils.logger:info:68 - Flask服务配置: 0.0.0.0:5000
+2025-11-04 07:26:11 | INFO     | src.utils.logger:info:68 - ============================================================
+2025-11-04 07:26:11 | INFO     | src.utils.logger:info:68 - 应用启动成功！
+2025-11-04 07:26:11 | INFO     | src.utils.logger:info:68 - API地址: http://0.0.0.0:5000
+2025-11-04 07:26:11 | INFO     | src.utils.logger:info:68 - API文档: http://0.0.0.0:5000/
+2025-11-04 07:26:11 | INFO     | src.utils.logger:info:68 - ============================================================
+2025-11-04 07:26:11 | INFO     | src.utils.logger:info:68 - 说明: 系统已改为实时调用Tushare API获取数据
+2025-11-04 07:26:11 | INFO     | src.utils.logger:info:68 - ============================================================
+2025-11-04 07:28:32 | INFO     | src.utils.logger:info:68 - ============================================================
+2025-11-04 07:28:32 | INFO     | src.utils.logger:info:68 - 测试新架构 - 直接调用Tushare API
+2025-11-04 07:28:32 | INFO     | src.utils.logger:info:68 - ============================================================
+2025-11-04 07:28:32 | INFO     | src.utils.logger:info:68 - Tushare客户端初始化成功
+2025-11-04 07:28:32 | INFO     | src.utils.logger:info:68 - DataFetcher初始化成功
+2025-11-04 07:28:32 | INFO     | src.utils.logger:info:68 - 
+测试1: 获取深圳市场前5个股票...
+2025-11-04 07:28:32 | INFO     | src.utils.logger:info:68 - 开始获取股票列表，市场: SZ
+2025-11-04 07:28:36 | INFO     | src.utils.logger:info:68 - 获取股票列表成功，共2875条
+2025-11-04 07:28:36 | INFO     | src.utils.logger:info:68 - 获取股票列表成功，共2875条
+2025-11-04 07:28:36 | INFO     | src.utils.logger:info:68 - ✓ 获取成功！共 2875 只股票
+2025-11-04 07:28:36 | INFO     | src.utils.logger:info:68 - 示例: {'code': '000001', 'name': '平安银行', 'market': 'SZ', 'industry_code': '银行', 'list_date': datetime.date(1991, 4, 3), 'total_shares': None, 'circulating_shares': None}
+2025-11-04 07:28:36 | INFO     | src.utils.logger:info:68 - 
+测试2: 获取行业数据...
+2025-11-04 07:28:36 | INFO     | src.utils.logger:info:68 - 开始获取行业数据，日期: None
+2025-11-04 07:28:38 | INFO     | src.utils.logger:info:68 - 获取行业指数列表成功，共31条
+2025-11-04 07:29:50 | INFO     | src.utils.logger:info:68 - 获取行业数据成功，共0条
+2025-11-04 07:29:50 | INFO     | src.utils.logger:info:68 - ✓ 获取成功！共 0 个行业
+2025-11-04 07:29:50 | INFO     | src.utils.logger:info:68 - 
+============================================================
+2025-11-04 07:29:50 | INFO     | src.utils.logger:info:68 - ✓ 所有测试通过！新架构工作正常
+2025-11-04 07:29:50 | INFO     | src.utils.logger:info:68 - ============================================================
+2025-11-04 16:31:06 | INFO     | src.utils.logger:info:68 - Tushare客户端初始化成功
+2025-11-04 16:31:06 | INFO     | src.utils.logger:info:68 - DataFetcher初始化成功
+2025-11-04 16:31:06 | INFO     | src.utils.logger:info:68 - Tushare客户端初始化成功
+2025-11-04 16:31:06 | INFO     | src.utils.logger:info:68 - DataFetcher初始化成功
+2025-11-04 16:31:06 | INFO     | src.utils.logger:info:68 - Tushare客户端初始化成功
+2025-11-04 16:31:06 | INFO     | src.utils.logger:info:68 - DataFetcher初始化成功
+2025-11-04 16:31:06 | INFO     | src.utils.logger:info:68 - ============================================================
+2025-11-04 16:31:06 | INFO     | src.utils.logger:info:68 - Graham Value Investment Analyzer 启动中...
+2025-11-04 16:31:06 | INFO     | src.utils.logger:info:68 - ============================================================
+2025-11-04 16:31:06 | INFO     | src.utils.logger:info:68 - 创建Flask应用...
+2025-11-04 16:31:06 | INFO     | src.utils.logger:info:68 - Flask应用创建成功
+2025-11-04 16:31:06 | INFO     | src.utils.logger:info:68 - Flask服务配置: 0.0.0.0:5000
+2025-11-04 16:31:06 | INFO     | src.utils.logger:info:68 - ============================================================
+2025-11-04 16:31:06 | INFO     | src.utils.logger:info:68 - 应用启动成功！
+2025-11-04 16:31:06 | INFO     | src.utils.logger:info:68 - API地址: http://0.0.0.0:5000
+2025-11-04 16:31:06 | INFO     | src.utils.logger:info:68 - API文档: http://0.0.0.0:5000/
+2025-11-04 16:31:06 | INFO     | src.utils.logger:info:68 - ============================================================
+2025-11-04 16:31:06 | INFO     | src.utils.logger:info:68 - 说明: 系统已改为实时调用Tushare API获取数据
+2025-11-04 16:31:06 | INFO     | src.utils.logger:info:68 - ============================================================
+2025-11-04 16:31:19 | INFO     | src.utils.logger:info:68 - Tushare客户端初始化成功
+2025-11-04 16:31:19 | INFO     | src.utils.logger:info:68 - DataFetcher初始化成功
+2025-11-04 16:31:19 | INFO     | src.utils.logger:info:68 - Tushare客户端初始化成功
+2025-11-04 16:31:19 | INFO     | src.utils.logger:info:68 - DataFetcher初始化成功
+2025-11-04 16:31:19 | INFO     | src.utils.logger:info:68 - Tushare客户端初始化成功
+2025-11-04 16:31:19 | INFO     | src.utils.logger:info:68 - DataFetcher初始化成功
+2025-11-04 16:31:19 | INFO     | src.utils.logger:info:68 - ============================================================
+2025-11-04 16:31:19 | INFO     | src.utils.logger:info:68 - Graham Value Investment Analyzer 启动中...
+2025-11-04 16:31:19 | INFO     | src.utils.logger:info:68 - ============================================================
+2025-11-04 16:31:19 | INFO     | src.utils.logger:info:68 - 创建Flask应用...
+2025-11-04 16:31:19 | INFO     | src.utils.logger:info:68 - Flask应用创建成功
+2025-11-04 16:31:19 | INFO     | src.utils.logger:info:68 - Flask服务配置: 0.0.0.0:5000
+2025-11-04 16:31:19 | INFO     | src.utils.logger:info:68 - ============================================================
+2025-11-04 16:31:19 | INFO     | src.utils.logger:info:68 - 应用启动成功！
+2025-11-04 16:31:19 | INFO     | src.utils.logger:info:68 - API地址: http://0.0.0.0:5000
+2025-11-04 16:31:19 | INFO     | src.utils.logger:info:68 - API文档: http://0.0.0.0:5000/
+2025-11-04 16:31:19 | INFO     | src.utils.logger:info:68 - ============================================================
+2025-11-04 16:31:19 | INFO     | src.utils.logger:info:68 - 说明: 系统已改为实时调用Tushare API获取数据
+2025-11-04 16:31:19 | INFO     | src.utils.logger:info:68 - ============================================================
+2025-11-04 16:32:55 | INFO     | src.utils.logger:info:68 - Tushare客户端初始化成功
+2025-11-04 16:32:55 | INFO     | src.utils.logger:info:68 - DataFetcher初始化成功
+2025-11-04 16:32:55 | INFO     | src.utils.logger:info:68 - Tushare客户端初始化成功
+2025-11-04 16:32:55 | INFO     | src.utils.logger:info:68 - DataFetcher初始化成功
+2025-11-04 16:32:55 | INFO     | src.utils.logger:info:68 - Tushare客户端初始化成功
+2025-11-04 16:32:55 | INFO     | src.utils.logger:info:68 - DataFetcher初始化成功
+2025-11-04 16:32:55 | INFO     | src.utils.logger:info:68 - ============================================================
+2025-11-04 16:32:55 | INFO     | src.utils.logger:info:68 - Graham Value Investment Analyzer 启动中...
+2025-11-04 16:32:55 | INFO     | src.utils.logger:info:68 - ============================================================
+2025-11-04 16:32:55 | INFO     | src.utils.logger:info:68 - 创建Flask应用...
+2025-11-04 16:32:55 | INFO     | src.utils.logger:info:68 - Flask应用创建成功
+2025-11-04 16:32:55 | INFO     | src.utils.logger:info:68 - Flask服务配置: 0.0.0.0:5000
+2025-11-04 16:32:55 | INFO     | src.utils.logger:info:68 - ============================================================
+2025-11-04 16:32:55 | INFO     | src.utils.logger:info:68 - 应用启动成功！
+2025-11-04 16:32:55 | INFO     | src.utils.logger:info:68 - API地址: http://0.0.0.0:5000
+2025-11-04 16:32:55 | INFO     | src.utils.logger:info:68 - API文档: http://0.0.0.0:5000/
+2025-11-04 16:32:55 | INFO     | src.utils.logger:info:68 - ============================================================
+2025-11-04 16:32:55 | INFO     | src.utils.logger:info:68 - 说明: 系统已改为实时调用Tushare API获取数据
+2025-11-04 16:32:55 | INFO     | src.utils.logger:info:68 - ============================================================
+2025-11-04 16:34:06 | INFO     | src.utils.logger:info:68 - Tushare客户端初始化成功
+2025-11-04 16:34:06 | INFO     | src.utils.logger:info:68 - DataFetcher初始化成功
+2025-11-04 16:34:06 | INFO     | src.utils.logger:info:68 - Tushare客户端初始化成功
+2025-11-04 16:34:06 | INFO     | src.utils.logger:info:68 - DataFetcher初始化成功
+2025-11-04 16:34:06 | INFO     | src.utils.logger:info:68 - Tushare客户端初始化成功
+2025-11-04 16:34:06 | INFO     | src.utils.logger:info:68 - DataFetcher初始化成功
+2025-11-04 16:34:06 | INFO     | src.utils.logger:info:68 - ============================================================
+2025-11-04 16:34:06 | INFO     | src.utils.logger:info:68 - Graham Value Investment Analyzer 启动中...
+2025-11-04 16:34:06 | INFO     | src.utils.logger:info:68 - ============================================================
+2025-11-04 16:34:06 | INFO     | src.utils.logger:info:68 - 创建Flask应用...
+2025-11-04 16:34:06 | INFO     | src.utils.logger:info:68 - Flask应用创建成功
+2025-11-04 16:34:06 | INFO     | src.utils.logger:info:68 - Flask服务配置: 0.0.0.0:5000
+2025-11-04 16:34:06 | INFO     | src.utils.logger:info:68 - ============================================================
+2025-11-04 16:34:06 | INFO     | src.utils.logger:info:68 - 应用启动成功！
+2025-11-04 16:34:06 | INFO     | src.utils.logger:info:68 - API地址: http://0.0.0.0:5000
+2025-11-04 16:34:06 | INFO     | src.utils.logger:info:68 - API文档: http://0.0.0.0:5000/
+2025-11-04 16:34:06 | INFO     | src.utils.logger:info:68 - ============================================================
+2025-11-04 16:34:06 | INFO     | src.utils.logger:info:68 - 说明: 系统已改为实时调用Tushare API获取数据
+2025-11-04 16:34:06 | INFO     | src.utils.logger:info:68 - ============================================================
+2025-11-04 16:37:37 | INFO     | src.utils.logger:info:68 - Tushare客户端初始化成功
+2025-11-04 16:37:37 | INFO     | src.utils.logger:info:68 - DataFetcher初始化成功
+2025-11-04 16:37:37 | INFO     | src.utils.logger:info:68 - Tushare客户端初始化成功
+2025-11-04 16:37:37 | INFO     | src.utils.logger:info:68 - DataFetcher初始化成功
+2025-11-04 16:37:37 | INFO     | src.utils.logger:info:68 - Tushare客户端初始化成功
+2025-11-04 16:37:37 | INFO     | src.utils.logger:info:68 - DataFetcher初始化成功
+2025-11-04 16:37:37 | INFO     | src.utils.logger:info:68 - ============================================================
+2025-11-04 16:37:37 | INFO     | src.utils.logger:info:68 - Graham Value Investment Analyzer 启动中...
+2025-11-04 16:37:37 | INFO     | src.utils.logger:info:68 - ============================================================
+2025-11-04 16:37:37 | INFO     | src.utils.logger:info:68 - 创建Flask应用...
+2025-11-04 16:37:37 | INFO     | src.utils.logger:info:68 - Flask应用创建成功
+2025-11-04 16:37:37 | INFO     | src.utils.logger:info:68 - Flask服务配置: 0.0.0.0:5000
+2025-11-04 16:37:37 | INFO     | src.utils.logger:info:68 - ============================================================
+2025-11-04 16:37:37 | INFO     | src.utils.logger:info:68 - 应用启动成功！
+2025-11-04 16:37:37 | INFO     | src.utils.logger:info:68 - API地址: http://0.0.0.0:5000
+2025-11-04 16:37:37 | INFO     | src.utils.logger:info:68 - API文档: http://0.0.0.0:5000/
+2025-11-04 16:37:37 | INFO     | src.utils.logger:info:68 - ============================================================
+2025-11-04 16:37:37 | INFO     | src.utils.logger:info:68 - 说明: 系统已改为实时调用Tushare API获取数据
+2025-11-04 16:37:37 | INFO     | src.utils.logger:info:68 - ============================================================

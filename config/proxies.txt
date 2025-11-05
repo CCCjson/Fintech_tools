@@ -1,0 +1,16 @@
+# IP代理列表
+# 格式: ip:port 或 user:pass@ip:port
+# 每行一个代理，#开头为注释
+
+# 示例代理（需要替换为真实代理）
+# 127.0.0.1:8080
+# 192.168.1.100:3128
+# user:password@proxy.example.com:8080
+
+# 免费代理获取途径：
+# 1. https://www.kuaidaili.com/
+# 2. https://www.xicidaili.com/
+# 3. https://ip.ihuan.me/
+# 注意：免费代理质量参差不齐，建议使用付费代理
+
+112.17.16.205:80
